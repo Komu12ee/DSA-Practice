@@ -13,4 +13,11 @@ class Solution:
                 hi-=1    
         return maxi
             
+# =====FOR MY REVISION=======
+# Why brute force is O(n^2).
 
+# Why two pointers are better.
+
+# Why moving the smaller height is the correct greedy choice.
+
+# Prove it’s optimal.
